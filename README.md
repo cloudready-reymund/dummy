@@ -1,3 +1,3 @@
 # dummy
 ### This is just a dummy repo
-### This is to commit some changes
+### This is to commit
